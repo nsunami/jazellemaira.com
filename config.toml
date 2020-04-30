@@ -1,7 +1,7 @@
 baseURL = "https://jazellemaira.netlify.app"
 title = "Jazelle Maira"
-author = "Steve Francia"
-copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+author = "Jazelle Maira"
+copyright = "Copyright © 2008–2020, Jazelle Maira; all rights reserved."
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -11,10 +11,11 @@ footnoteReturnLinkContents = "^"
 theme = "casper3"
 
 [params]
-  facebook = "https://facebook.com"
-  twitter = "https://twitter.com"
-  github = "https://github.com/jonathanjanssens"
-  description = "Just a demo site for the Casper3 theme ported to Hugo"
+  facebook = "https://facebook.com/jazellemaira"
+  twitter = "https://twitter.com/jazellemaira"
+  instagram = "https://www.instagram.com/jazellemaira/"
+  # github = "https://github.com/jonathanjanssens"
+  description = "just another girl living life one day at a time "
   mainSections = ["post"]
 
 [menu]
@@ -23,20 +24,20 @@ theme = "casper3"
     name = "About"
     url = "/about/"
     weight = 10
+  # [[menu.main]]
+  #   identifier = "image-credit"
+  #   name = "Image Credit"
+  #   url = "/image-credit/"
+  #   weight = 20
+  # [[menu.main]]
+  #   identifier = "github-repo-theme"
+  #   name = "Get Theme on Github"
+  #   url = "https://github.com/jonathanjanssens/hugo-casper3"
+  #   weight = 30
   [[menu.main]]
-    identifier = "image-credit"
-    name = "Image Credit"
-    url = "/image-credit/"
-    weight = 20
-  [[menu.main]]
-    identifier = "github-repo-theme"
-    name = "Get Theme on Github"
-    url = "https://github.com/jonathanjanssens/hugo-casper3"
-    weight = 30
-  [[menu.main]]
-    identifier = "author"
-    name = "Author Homepage"
-    url = "https://jonathanjanssens.com"
+    identifier = "instagram"
+    name = "Instagram"
+    url = "https://www.instagram.com/jazellemaira/"
     weight = 40
 
 [taxonomies]
