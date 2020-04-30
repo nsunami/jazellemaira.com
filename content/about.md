@@ -1,8 +1,8 @@
 +++
 title = "About"
-description = ""
+description = "about me"
 date = "2019-02-28"
-aliases = [""]
+aliases = ["about"]
 author = "Jazelle Maira"
 feature_image = ""
 +++
