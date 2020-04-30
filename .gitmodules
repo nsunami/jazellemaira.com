@@ -1,0 +1,6 @@
+[submodule "hugo-casper3"]
+	path = hugo-casper3
+	url = https://github.com/jonathanjanssens/hugo-casper3.git
+[submodule "themes/--name"]
+	path = themes/--name
+	url = https://github.com/jonathanjanssens/hugo-casper3.git
