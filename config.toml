@@ -15,7 +15,7 @@ theme = "casper3"
   twitter = "https://twitter.com/jazellemaira"
   instagram = "https://www.instagram.com/jazellemaira/"
   github = "https://github.com/jazellemaira"
-  description = "just another girl living life one day at a time "
+  description = ""
   mainSections = ["post"]
 
 [menu]
