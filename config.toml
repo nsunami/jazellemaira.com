@@ -1,7 +1,7 @@
-baseURL = "https://jazellemaira.netlify.app"
+baseURL = "https://jazellemaira.com"
 title = "Jazelle Maira"
 author = "Jazelle Maira"
-copyright = "Copyright © 2008–2020, Jazelle Maira; all rights reserved."
+copyright = "Jazelle Maira; all rights reserved."
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -14,8 +14,8 @@ theme = "casper3"
   facebook = "https://facebook.com/jazellemaira"
   twitter = "https://twitter.com/jazellemaira"
   instagram = "https://www.instagram.com/jazellemaira/"
-  # github = "https://github.com/jonathanjanssens"
-  description = "just another girl living life one day at a time "
+  github = "https://github.com/jazellemaira"
+  description = ""
   mainSections = ["post"]
 
 [menu]
@@ -24,16 +24,6 @@ theme = "casper3"
     name = "About"
     url = "/about/"
     weight = 10
-  # [[menu.main]]
-  #   identifier = "image-credit"
-  #   name = "Image Credit"
-  #   url = "/image-credit/"
-  #   weight = 20
-  # [[menu.main]]
-  #   identifier = "github-repo-theme"
-  #   name = "Get Theme on Github"
-  #   url = "https://github.com/jonathanjanssens/hugo-casper3"
-  #   weight = 30
   [[menu.main]]
     identifier = "instagram"
     name = "Instagram"
